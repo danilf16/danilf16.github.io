@@ -3,9 +3,9 @@ title = "Danil Prokhorenko"
 theme = "ananke"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
+sectionPagesMenu = "main"
 
 [languages]
-
   [languages.en]
     languageName = "English"
     weight = 1
