@@ -1,12 +1,18 @@
 ---
-title: "Sometimes ideas come completely unexpectedly"
-date: 2026-03-03
-slug: "sometimes-ides-come-completely-unexpectedly"
-translationKey: "sometimes-ides-come-completely-unexpectedly"
-draft: false
+title: "The Problem With Time Travel Missions"
+description: "If time travel creates parallel realities, no one can ever know whether a mission to the past succeeded. That raises an unsettling idea: what if a cult is sending people into a machine that does nothing at all?"
+date: 2026-03-07
+slug: "time-travel-mission-paradox"
+translationKey: "time-travel-mission-paradox"
+cover: cover.webp
+preview: preview.webp
+images:
+  - og.webp
 ---
 
-while watching a movie or a TV series, or simply during a walk. The other day I was watching the series "Terminator: Zero" (everything there is pretty much as usual), and a thought came to me. I’ll get to it in a moment, but first it’s worth recalling how time travel works. There are two main concepts.
+![Time travel cult](cover.webp)
+
+Sometimes ideas come completely unexpectedly - while watching a movie or a TV series, or simply during a walk. The other day I was watching the series "Terminator: Zero" (everything there is pretty much as usual), and a thought came to me. I’ll get to it in a moment, but first it’s worth recalling how time travel works. There are two main concepts.
 
 The first one is self-consistent time. Suppose you want to travel to the past and fix something. You go to the past, but events unfold in such a way that no matter what you do, it never leads to the desired result. For you in the present (A), everything that happened is already the past. For you who traveled to the past (B), the events that will occur are the future - but they will be exactly the same as they already were for A in the past. In fact, A’s past already includes the events that happened because of B.
 

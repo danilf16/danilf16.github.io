@@ -9,9 +9,7 @@ sectionPagesMenu = "main"
   [languages.en]
     languageName = "English"
     weight = 1
-    contentDir = "content/en"
 
   [languages.ru]
     languageName = "Русский"
     weight = 2
-    contentDir = "content/ru"
